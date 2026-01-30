@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Fucking Python**
 
-- 📫 If you want, This is My fucking e-mail, contact me! **padrosum@proton.me**
+- 📫 This is My fucking e-mail, if you want, use that! **padrosum@proton.me**
 
 - 👨‍💻 My Website: **[https://padrosum.uk](https://padrosum.uk)**
 
