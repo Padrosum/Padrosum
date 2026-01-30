@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alihan Karakuş
+# Hi boys, This is My glorious Github Page!
 
 ### Fucking Vibe Coder, Fucking Philosophy Lover, Fucking Unemployed, Fucking Souls-Lover, Fucking Fuck-Lover.
 
@@ -37,6 +37,6 @@
   </a>
 </p>
 
-## I use Arch, by The Fucking Way!
+## I use Arch by The Fucking Way!
 
 
