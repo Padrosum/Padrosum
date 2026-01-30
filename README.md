@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Padrosum&label=Profile views&color=0e75b6&style=flat" alt="Padrosum" /> </p>
 
-- 🔭 I'm currently working on **fuck your mom**
+- 🔭 I Live in **My fucking cage**
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **Fucking Python**
 
-- 📫 How to reach me **padrosum@proton.me**
+- 📫 If you want, This is My fucking e-mail, contact me! **padrosum@proton.me**
 
 - 👨‍💻 My Website: **[https://padrosum.uk](https://padrosum.uk)**
 
