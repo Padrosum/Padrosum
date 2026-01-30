@@ -19,7 +19,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arch" alt="arch" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  </a>
+
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/>
+  </a>
+</p>
 
 ## I use Arch, by The Fucking Way!
 
