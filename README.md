@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Padrosum&label=Profile views&color=0e75b6&style=flat" alt="Padrosum" /> </p>
 
+ I'm coding for The sake of God, Muhammed and Jesus Christ.
+
 - 🔭 I Live in **My fucking cage**
 
 - 🌱 I'm currently learning **Fucking Python**
