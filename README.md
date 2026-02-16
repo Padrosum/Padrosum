@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Fucking Python**
 
-- 📫 This is My fucking e-mail, if you want, use that! **padrosum@proton.me**
+- 📫 This is My fucking e-mail, if you want, use that! **alihan@padrosum.uk**
 
 - 👨‍💻 My Website: **[https://padrosum.uk](https://padrosum.uk)**
 
