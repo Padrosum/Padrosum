@@ -2,7 +2,6 @@
 
 ### Fucking Vibe Coder, Fucking Philosophy Lover, Fucking Unemployed, Fucking Souls-Lover, Fucking Fuck-Lover.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Padrosum&label=Profile views&color=0e75b6&style=flat" alt="Padrosum" /> </p>
 
  I'm coding for The sake of God, Muhammed and Jesus Christ.
 
