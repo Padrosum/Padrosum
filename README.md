@@ -17,7 +17,7 @@ I am a developer focused on building minimalist, efficient, and open-source soft
 
 <p align="left">
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arch,lua,py,c,go,neovim,linux,bash" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=arch,py,go,neovim,linux,bash" alt="tools" />
   </a>
 </p>
 
