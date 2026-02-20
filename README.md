@@ -1,43 +1,40 @@
-# Hi boys, This is My glorious Github Page!
+# 👋 Hi, I'm Alihan (Padros)
 
-### Fucking Vibe Coder, Fucking Philosophy Lover, Fucking Unemployed, Fucking Souls-Lover, Fucking Fuck-Lover.
+### **Software Enthusiast | Philosophy & Ethics | FOSS Contributor**
 
+I am a developer focused on building minimalist, efficient, and open-source software. Currently, I spend my time exploring the depths of low-level programming, system architecture, and Aristotelian philosophy.
 
- I'm coding for The sake of God, Muhammed and Jesus Christ.
+- 🔭 **Digital Cave:** Working on personal OS development and minimalist Linux environments.
+- 🌱 **Learning Path:** Deepening my expertise in **Python**, **Go**, and **C**.
+- 🛠 **Tooling:** Proud **Arch Linux** user and **Neovim** enthusiast.
+- 💬 **Interests:** Souls-like games, retro gaming, and hardware modification (ThinkPad fan).
+- 📫 **Contact:** Reach me at [alihan@padrosum.uk](mailto:alihan@padrosum.uk)
+- 👨‍💻 **Web:** [padrosum.uk](https://padrosum.uk)
 
-- 🔭 I Live in **My fucking cage**
+---
 
-- 🌱 I'm currently learning **Fucking Python**
+### 🛠 Languages and Tools
 
-- 📫 This is My fucking e-mail, if you want, use that! **alihan@padrosum.uk**
+<p align="left">
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arch,lua,py,c,go,neovim,linux,bash" alt="tools" />
+  </a>
+</p>
 
-- 👨‍💻 My Website: **[https://padrosum.uk](https://padrosum.uk)**
+### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Padrosum&show_icons=true&theme=tokyonight" alt="Padrosum stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padrosum&layout=compact&theme=tokyonight" alt="top languages" height="150" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
 <p align="left">
 <a href="https://github.com/Padrosum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Padrosum" height="30" width="40" /></a>
 <a href="https://twitter.com/padrosum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padrosum" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arch" alt="arch" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/>
-  </a>
-</p>
-
-## I use Arch by The Fucking Way!
-
-
+> *"I use Arch, by the way."*
