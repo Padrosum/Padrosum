@@ -21,12 +21,6 @@ I am a developer focused on building minimalist, efficient, and open-source soft
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Padrosum&show_icons=true&theme=tokyonight" alt="Padrosum stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padrosum&layout=compact&theme=tokyonight" alt="top languages" height="150" />
-</p>
 
 ---
 
