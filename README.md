@@ -13,6 +13,8 @@ I am a developer focused on building minimalist, efficient, and open-source soft
 
 ---
 
+bitcoin:bc1quzn69g4cmxtxq8ypadg8wa7wyrdrra8cuxm7kz?message=Asd
+
 ### 🛠 Languages and Tools
 
 <p align="left">
